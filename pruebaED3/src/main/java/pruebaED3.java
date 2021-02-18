@@ -12,5 +12,5 @@ public class pruebaED3 {
     int x = 01;
     int y = 02;
     int q = 03;
-    int z = 03;
+    int z = 3;
 }
