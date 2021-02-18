@@ -10,4 +10,5 @@
  */
 public class pruebaED3 {
     int x = 01;
+    int y = 02;
 }
