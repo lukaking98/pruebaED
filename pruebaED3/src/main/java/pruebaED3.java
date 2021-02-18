@@ -14,4 +14,5 @@ public class pruebaED3 {
     int q = 03;
     int z = 3;
     int z = 03;
+    String hilo;
 }
